@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+
+
+# Wheel of Fortune - Game 🎡
+
+ <img  alt="GIF" src="https://31.media.tumblr.com/b86cc800971100562d962f7bd09e9c23/tumblr_mrq3czajTC1qzke78o1_500.gif"  />
+ 
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
